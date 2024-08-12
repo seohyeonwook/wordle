@@ -35,7 +35,7 @@ if 1 > 0:
     
 for i in range(1,5):
     print(i)
-# 조건문
+# 조건문  
 
 
 
